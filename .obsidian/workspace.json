@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/2026-09-10 - Rubrik - Sales Development Representative.md",
+                "file": "Jobs/2026-09-10 - UiPath - Business Development Representative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-10 - Rubrik - Sales Development Representative"
+              "title": "2026-09-10 - UiPath - Business Development Representative"
             }
           }
         ]
@@ -186,11 +186,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ff7ebfd7826faca5",
+  "active": "06886f95016c4ecd",
   "lastOpenFiles": [
+    "Companies/UiPath.md",
+    "Jobs/2026-09-10 - Rubrik - Sales Development Representative.md",
+    "Resume/Riley_Kyler_UiPath_Business_Development_Representative_Resume.pdf",
+    "Resume/Riley_Kyler_Rubrik_Sales_Development_Representative_Resume.pdf",
+    "Jobs/2026-09-10 - UiPath - Business Development Representative.md",
     "Companies/Rubrik.md",
     "Pipeline.md",
-    "Jobs/2026-09-10 - Rubrik - Sales Development Representative.md",
     "2026-09-10.md",
     "Templates/JobApplicationTemplate.md",
     "Jobs/JobApplyTemplate.md",
