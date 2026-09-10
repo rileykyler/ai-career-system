@@ -1,3 +1,10 @@
+---
+company: 
+fit_score: 
+track: 
+resume_version: 
+---
+
 # [Company Name] - [Job Title]
 
 #status/researching
@@ -37,4 +44,3 @@ Link to detailed prep: [[Interview-Prep/...]]
 - 
 
 ## Follow-Up / Next Steps
-- 
