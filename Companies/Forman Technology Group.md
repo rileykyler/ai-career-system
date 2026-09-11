@@ -1,0 +1,1 @@
+Not yet researched in depth — this listing was scored from search-preview data only (rate-limit issue during the 9/11 scan), so there's no verified company background here yet. Do basic company research before an interview.

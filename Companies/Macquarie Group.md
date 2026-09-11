@@ -1,0 +1,1 @@
+Global financial services group (Australian-headquartered) with a large Commodities and Global Markets business. This role sits in gas settlements — reconciling and confirming physical/financial natural gas trade activity. Scored from search-preview data only (rate-limit issue during the 9/11 scan) — worth reading the actual posting before an interview.

@@ -1,0 +1,1 @@
+Designs and implements energy-efficiency programs on behalf of utilities (demand-side management) — helps utilities run rebate/efficiency programs for their customers rather than being a utility itself. Scored from search-preview data only (rate-limit issue during the 9/11 scan) — worth reading the actual posting before an interview.

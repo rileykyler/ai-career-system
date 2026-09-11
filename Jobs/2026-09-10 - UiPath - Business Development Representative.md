@@ -7,7 +7,7 @@ resume_version: UiPath_BDR_v1
 
 # [UiPath] - [BDR]
 
-#status/researching
+#status/applied 
 
 ## Basics
 - **Company:** [[UiPath]]
@@ -24,7 +24,7 @@ resume_version: UiPath_BDR_v1
 ## Application Checklist
 - [x] Resume tailored and saved (see `Resume/Versions.md`)
 - [ ] Cover letter written (if needed)
-- [ ] Application submitted
+- [x] Application submitted
 - [ ] Referral requested (see `Networking/Contacts.md`)
 - [ ] Follow-up sent (if no response after ~1-2 weeks)
 
@@ -32,7 +32,7 @@ resume_version: UiPath_BDR_v1
 | Date | Event             |
 | ---- | ----------------- |
 | 9/10 | Found posting     |
-|      | Applied           |
+| 9/10 | Applied           |
 |      | Heard back        |
 |      | Interview 1       |
 |      | Interview 2       |

@@ -1,0 +1,1 @@
+Full job description was available for this one (not affected by the rate-limit issue). Healthcare-technology company — platform for coordinating patient transfers between hospitals/facilities. SDR role would involve selling into hospital transfer-center and health-system buyers.

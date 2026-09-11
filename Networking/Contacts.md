@@ -4,11 +4,11 @@ Running list of people in your network. Add a row whenever you meet someone new 
 
 | Name | Company | Role | How We Met | Last Contact | Notes |
 |---|---|---|---|---|---|
-| Jordan Lee (EXAMPLE) | Acme Corp | Senior Analyst | LinkedIn, mutual connection | 2026-08-18 | Referred me for Data Analyst role; check in after interview |
+| Amal Saleh | Rubrik | Lead, Early Talent Programs | Phone screen contact for SDR role | 2026-09-10 | [[Jobs/2026-09-10 - Rubrik - Sales Development Representative]] — phone screen scheduled, date/time TBD. [LinkedIn](https://www.linkedin.com/in/asaleh21/), amal.saleh@rubrik.com |
 |  |  |  |  |  |  |
 
 ## Follow-Up Reminders
-- [ ] Message Jordan Lee to thank him for the referral
+- [ ] Send Amal a thank-you note within 24 hours of the phone screen
 - [ ] 
 
 ## Networking Events / Communities
