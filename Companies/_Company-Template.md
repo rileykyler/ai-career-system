@@ -25,7 +25,7 @@
 - 
 
 ## Related Jobs
-- [[Jobs/...]]
+- *(none yet)*
 
 ## Related Contacts
 - [[Networking/Contacts]]

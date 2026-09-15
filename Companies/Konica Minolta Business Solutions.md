@@ -1,0 +1,1 @@
+Japanese multinational — office/business technology and managed IT services (printers/copiers, print management, digital transformation, IT services for SMB/enterprise). Applied 9/14 to Account Executive — 93/PASS. Not yet heard back.

@@ -1,0 +1,1 @@
+Austin-based property restoration company, operates as a SERVPRO franchise (water/fire/storm damage restoration and cleanup). Applied 9/14 to Inside Sales Representative — 78/PASS. Phone-based inside sales, not door-to-door canvassing (confirmed against the hard-filter check in Job-Fit-Scoring-Rubric.md). Not yet heard back.

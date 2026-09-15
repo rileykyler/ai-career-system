@@ -1,0 +1,1 @@
+Financial consulting/business funding company — brokers lending products (business loans, funding solutions) to small/mid-size businesses. Applied 9/14 to Account Executive — 79/STRETCH. Not yet heard back.

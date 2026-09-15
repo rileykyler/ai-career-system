@@ -39,7 +39,7 @@ resume_version: CLEAResult_Operations_Analyst_v1
 |      | Offer / Rejection |
 
 ## Interview Notes
-Link to detailed prep: [[Interview-Prep/...]]
+Link to detailed prep: *(none yet)*
 
 - 
 

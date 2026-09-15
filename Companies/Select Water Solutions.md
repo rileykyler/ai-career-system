@@ -1,0 +1,1 @@
+Publicly traded (NYSE: WTTR) water management/services company for the oil & gas industry — sourcing, transfer, disposal, and recycling of water used in energy operations. Applied 9/14 to Analyst, Commercial Strategy & Execution — 78/STRETCH. Energy/analytics track. Not yet heard back.

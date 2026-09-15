@@ -10,7 +10,7 @@ resume_version:
 #status/researching
 
 ## Basics
-- **Company:** [[Company Name]]
+- **Company:** (link the Companies/ note here)
 - **Role:** 
 - **Location:** 
 - **Salary Range:** 
@@ -39,7 +39,7 @@ resume_version:
 |  | Offer / Rejection |
 
 ## Interview Notes
-Link to detailed prep: [[Interview-Prep/...]]
+Link to detailed prep: *(none yet)*
 
 - 
 
